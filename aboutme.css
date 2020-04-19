@@ -1,0 +1,19 @@
+h1{
+  font-size: 50px;
+ color:White;
+  background-color: black;
+    border:10px green dotted;
+}
+p{
+  font-size: 30px;
+  color:white;
+  background-color:purple;
+  border:3px orange dotted;
+  margin:5px;
+}
+h3{
+  font-size:40px;
+  color:White;
+  background-color:black;
+  border:4px pink dotted;
+}
