@@ -2,18 +2,36 @@ h1{
   font-size: 50px;
  color:White;
   background-color: black;
-    border:10px green dotted;
+    border:1px green solid;
+  margin:5px;
 }
 p{
   font-size: 30px;
-  color:white;
+  color:black;
   background-color:purple;
-  border:3px orange dotted;
+  border:3px black dotted;
   margin:5px;
 }
 h3{
   font-size:40px;
   color:White;
   background-color:black;
-  border:4px pink dotted;
+  border:4px green dotted;
+  margin:5px;
+  
+}
+li{
+  font-size:30px;
+  color:;
+  background-color: #D6318C;
+  border:4px green solid;
+  margin:15px;
+  
+}
+h4{
+  font-size:40px;
+  color:White;
+  background-color:black;
+  border:4px green dotted;
+  margin:5px;
 }
